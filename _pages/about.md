@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img//` folders.
+I am dedicated to implementing technology for the greater good, as I love the process of conceptualising ideas and iterating until they reach deployment. I have a deep appreciation for open source and the tremendous effort that engineers put into producing amazing software for humanity, a cause that I respect and embrace wholeheartedly.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My journey has always revolved around technology—from enterprise hardware servers, the Internet of Things, and AI to machine learning, cybersecurity, and research into various implementations of these technologies across sectors such as banking, law, and agriculture.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my technical pursuits, I have extensive experience managing major enterprise technology projects and programmes for various blue-chip companies in a consulting capacity. This role has honed my ability to navigate complex business environments and deliver solutions that align closely with corporate objectives.
+
+My experience is business-focused first and technology-driven second because I strongly believe that without a clearly defined problem, rushing to implement technology results in a solution to a non-existent problem.
