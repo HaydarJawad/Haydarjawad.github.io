@@ -4,9 +4,11 @@ github_users:
 
 github_repos:
   - HaydarJawad/VerySimpleCode
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - HaydarJawad/shallow-learning-algorithms
+  - HaydarJawad/Cognitive-Biases-fallacies--paradoxes
+  - HaydarJawad/Search-Algorithms-
+  - HaydarJawad/Probabilistic-programming-PP
+  - HaydarJawad/Optimisation-algorithms
+  - HaydarJawad/Deep-Learning
+  - AI-Vision--Algorithms
+  
