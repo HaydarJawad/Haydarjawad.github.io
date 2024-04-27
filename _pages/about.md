@@ -6,7 +6,7 @@ subtitle: It's not about technology; it's about improving people's lives and pro
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: IMG_2619.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
