@@ -127,7 +127,7 @@ pagination:
 <div class="row">
           <div class="col-sm-9">
 {% endif %}
-        <h3 style="color: red;">
+        <h3 style="color: red !important;">
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% elsif post.redirect contains '://' %}
