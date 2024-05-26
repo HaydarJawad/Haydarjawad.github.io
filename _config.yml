@@ -283,7 +283,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["computer science", "cybersecurity", "lML mathematics", "mstatistics and probability", "pseudocode"] # these tags will be displayed on the front page of your blog
+display_tags: ["computer science", "cybersecurity", "ML mathematics", "statistics and probability", "pseudocode"] # these tags will be displayed on the front page of your blog
 #display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
