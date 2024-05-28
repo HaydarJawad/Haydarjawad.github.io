@@ -32,8 +32,8 @@ pseudocode: true
             \STATE \uppercase{uppercase,} \lowercase{LOWERCASE.}
         \ENDPROCEDURE
         \PROCEDURE{Test-Colors}{}
-            \STATE colors: $\color{red}{red}$, $\color{green}{green}$, $\color{blue}{blue}$
-            \STATE colors: $\color{yellow}{yellow}$, $\color{cyan}{cyan}$, $\color{magenta}{magenta}$
+            \STATE colors: $$\color{red}{red}$$, $$\color{green}{green}$$, $$\color{blue}{blue}$$
+            \STATE colors: $$\color{yellow}{yellow}$$, $$\color{cyan}{cyan}$$, $$\color{magenta}{magenta}$$
         \ENDPROCEDURE
         \end{algorithmic}
         \end{algorithm}
