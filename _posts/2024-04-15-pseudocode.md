@@ -9,18 +9,17 @@ pseudocode: true
 ---
 
 ```pseudocode
-% Incremental test algorithm with an arithmetic operation inside the IF block
+% Incremental test algorithm with an arithmetic operation and a call
 \begin{algorithm}
 \caption{Check Probabilities}
 \begin{algorithmic}
 \PROCEDURE{CheckProbabilities}{$$A, B$$}
     \IF{$$A > B$$}
         \STATE $$C \gets A - B$$
+        \STATE \CALL{ExampleCall}{$$C$$}
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
-
-
 
 ```
