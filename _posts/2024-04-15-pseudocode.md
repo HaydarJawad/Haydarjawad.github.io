@@ -11,10 +11,10 @@ pseudocode: true
 ```pseudocode
 % This is a simple test algorithm following the Quicksort format
 \begin{algorithm}
-\caption{Simple Example}
+\caption{Check Probabilities of Image Classification Model}
 \begin{algorithmic}
-\PROCEDURE{SimpleProcedure}{$$A, B$$}
-    \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
+\PROCEDURE{CheckProbabilities}{$$sample\_space, event\_A, event\_B$$}
+    \STATE $$total\_images \gets$$ \CALL{Length}{$$sample\_space$$}
     \IF{$$A > B$$}
         \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
     \ENDIF
