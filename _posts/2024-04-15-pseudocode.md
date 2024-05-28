@@ -34,7 +34,7 @@ pseudocode: true
         \ENDIF
     \ENDPROCEDURE
 
-    \PROCEDURE{Additivity}{$$$$prob\_A, prob\_B$$$$}
+    \PROCEDURE{Additivity}{$$prob\_A, prob\_B$$}
         \IF{$$prob\_A + prob\_B \leq 1$$}
             \STATE \textbf{return} True
         \ELSE
