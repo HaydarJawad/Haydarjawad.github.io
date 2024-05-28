@@ -9,12 +9,13 @@ pseudocode: true
 ---
 
 ```pseudocode
-% This is a simple test algorithm following the Quicksort format
+% This is a simple test algorithm with a single operation inside the IF block
 \begin{algorithm}
 \caption{Check Probabilities}
 \begin{algorithmic}
 \PROCEDURE{CheckProbabilities}{$$A, B$$}
     \IF{$$A > B$$}
+        \STATE $$C \gets A - B$$
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
