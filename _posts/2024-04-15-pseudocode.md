@@ -15,9 +15,11 @@ pseudocode: true
 \begin{algorithmic}
 \PROCEDURE{SimpleProcedure}{$$A, B$$}
     \IF{$$A > B$$}
+        \STATE $$C \gets A - B$$
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
+
 
 ```
