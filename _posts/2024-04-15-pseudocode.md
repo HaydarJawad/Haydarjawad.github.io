@@ -18,8 +18,4 @@ pseudocode: true
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
-
-
-
-
 ```
