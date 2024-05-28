@@ -9,16 +9,17 @@ pseudocode: true
 ---
 
 ```pseudocode
-% This is a simple test algorithm with a single operation inside the IF block
+% Simple test algorithm with a call inside the IF block
 \begin{algorithm}
 \caption{Check Probabilities}
 \begin{algorithmic}
 \PROCEDURE{CheckProbabilities}{$$A, B$$}
     \IF{$$A > B$$}
-        \STATE $$C \gets A - B$$
+        \STATE \CALL{SimpleCall}{$$A, B$$}
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
+
 
 ```
