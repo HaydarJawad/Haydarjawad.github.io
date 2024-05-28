@@ -9,13 +9,18 @@ pseudocode: true
 ---
 
 ```pseudocode
-% Minimal example to ensure correct rendering
+% This is a simple test algorithm following the Quicksort format
 \begin{algorithm}
-\caption{Minimal Example}
+\caption{Simple Example}
 \begin{algorithmic}
-\PROCEDURE{ExampleProcedure}{$$A, B$$}
-    \STATE $$C \gets A + B$$
+\PROCEDURE{SimpleProcedure}{$$A, B$$}
+    \IF{$$A > B$$}
+        \STATE $$C \gets A - B$$
+    \ELSE
+        \STATE $$C \gets B - A$$
+    \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
+
 ```
