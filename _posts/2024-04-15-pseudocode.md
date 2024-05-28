@@ -9,29 +9,32 @@ pseudocode: true
 ---
 
 ```pseudocode
-% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
+% This algorithm checks the axioms of probability for an AI image classification model
 \begin{algorithm}
-\caption{Quicksort}
+\caption{Check Probabilities of Image Classification Model}
 \begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p < r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] < x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
+\PROCEDURE{CheckProbabilities}{$$sample\_space, event\_A, event\_B$$}
+    \STATE $$total\_images \gets$$ \CALL{Length}{$$sample\_space$$}
+    \STATE $$prob\_A \gets$$ \CALL{Length}{$$event\_A$$} / $$total\_images$$
+    \STATE $$prob\_B \gets$$ \CALL{Length}{$$event\_B$$} / $$total\_images$$
+
+    \PROCEDURE{NonNegativity}{$$prob$$}
+        \IF{$$prob \geq 0$$}
+            \STATE \textbf{return} True
+        \ELSE
+            \STATE \textbf{return} False
         \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
+    \ENDPROCEDURE
+
+    \STATE $$is\_non\_negative \gets$$ \CALL{NonNegativity}{$$prob\_A$$} \AND \CALL{NonNegativity}{$$prob\_B$$}
+
+    \IF{$$is\_non\_negative$$}
+        \STATE \textbf{print}("Non-negativity check passed")
+    \ELSE
+        \STATE \textbf{print}("Non-negativity check failed")
+    \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
+
 ```
