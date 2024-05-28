@@ -9,14 +9,12 @@ pseudocode: true
 ---
 
 ```pseudocode
-% % This algorithm checks the axioms of probability for an AI image classification model
+% This algorithm checks the axioms of probability for an AI image classification model
 \begin{algorithm}
 \caption{Check Probabilities of Image Classification Model}
 \begin{algorithmic}
 \PROCEDURE{CheckProbabilities}{$$sample\_space, event\_A, event\_B$$}
     \STATE $$total\_images \gets$$ \CALL{Length}{$$sample\_space$$}
-    \STATE $$prob\_A \gets$$ \CALL{Length}{$$event\_A$$} / $$total\_images$$
-    \STATE $$prob\_B \gets$$ \CALL{Length}{$$event\_B$$} / $$total\_images$$
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
