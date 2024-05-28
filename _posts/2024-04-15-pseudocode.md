@@ -9,8 +9,7 @@ pseudocode: true
 ---
 
 ```pseudocode
-% This algorithm checks the axioms of probability for an AI image classification model
-\begin{algorithm}
+% This algorithm checks the axioms of probability for an AI \begin{algorithm}
 \caption{Check Probabilities of Image Classification Model}
 \begin{algorithmic}
 \PROCEDURE{CheckProbabilities}{$$sample\_space, event\_A, event\_B$$}
