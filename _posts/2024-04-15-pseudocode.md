@@ -14,13 +14,14 @@ pseudocode: true
 \caption{Simple Example}
 \begin{algorithmic}
 \PROCEDURE{SimpleProcedure}{$$A, B$$}
-    %\STATE $$C \gets A + B$$
     \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
     \IF{$$A > B$$}
+        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
+
 
 
 ```
