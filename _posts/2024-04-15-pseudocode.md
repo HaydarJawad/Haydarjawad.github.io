@@ -15,9 +15,6 @@ pseudocode: true
 \begin{algorithmic}
 \PROCEDURE{SimpleProcedure}{$$A, B$$}
     \IF{$$A > B$$}
-        \STATE $$C \gets A - B$$
-    \ELSE
-        \STATE $$C \gets B - A$$
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
