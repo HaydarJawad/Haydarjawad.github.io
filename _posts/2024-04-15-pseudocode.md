@@ -10,35 +10,18 @@ pseudocode: true
 
 ```pseudocode
  \begin{algorithm}
-        \caption{Test text-style}
+        \caption{Classical Euclidean Algorithm}
         \begin{algorithmic}
-        \REQUIRE some preconditions
-        \ENSURE some postconditions
-        \INPUT some inputs
-        \OUTPUT some outputs
-        \PROCEDURE{Test-Declarations}{}
-            \STATE font families: {\sffamily sffamily, \ttfamily ttfamily, \normalfont normalfont, \rmfamily rmfamily.}
-            \STATE font weights: {normal weight, \bfseries bold, \mdseries
-            medium, \lfseries lighter. }
-            \STATE font shapes: {\itshape itshape \scshape Small-Caps \slshape slshape \upshape upshape.}
-            \STATE font sizes: \tiny tiny \scriptsize scriptsize \footnotesize
-            footnotesize \small small \normalsize normal \large large \Large Large
-            \LARGE LARGE \huge huge \Huge Huge \normalsize
-        \ENDPROCEDURE
-        \PROCEDURE{Test-Commands}{}
-            \STATE \textnormal{textnormal,} \textrm{textrm,} \textsf{textsf,} \texttt{texttt.}
-            \STATE \textbf{textbf,} \textmd{textmd,} \textlf{textlf.}
-            \STATE \textup{textup,} \textit{textit,} \textsc{textsc,} \textsl{textsl.}
-            \STATE \uppercase{uppercase,} \lowercase{LOWERCASE.}
-        \ENDPROCEDURE
-        \PROCEDURE{Test-Colors}{}
-            \STATE colors: $$\color{red}{red}$$, $$\color{green}{green}$$, $$\color{blue}{blue}$$
-            \STATE colors: $$\color{yellow}{yellow}$$, $$\color{cyan}{cyan}$$, $$\color{magenta}{magenta}$$
-        \ENDPROCEDURE
+            \PROCEDURE{Euclid}{$$a,b$$}
+                \WHILE{$$a \neq b$$}
+                    \IF{$$a > b$$}
+                        \STATE $$a \gets a - b$$
+                    \ELSE
+                        \STATE $$b \gets b - a$$
+                    \ENDIF
+                \ENDWHILE
+                \RETURN $$a$$
+            \ENDPROCEDURE
         \end{algorithmic}
         \end{algorithm}
-
-
-
-
 ```
