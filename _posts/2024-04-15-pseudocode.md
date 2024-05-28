@@ -14,8 +14,8 @@ pseudocode: true
 \caption{Simple Example}
 \begin{algorithmic}
 \PROCEDURE{SimpleProcedure}{$$A, B$$}
+    \STATE $$C \gets A + B$$
     \IF{$$A > B$$}
-        \STATE $$C \gets A - B$$
     \ENDIF
 \ENDPROCEDURE
 \end{algorithmic}
