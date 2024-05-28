@@ -1,16 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://haydarjawad.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://haydarjawad.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-05-28T16:21:36+00:00</updated><id>https://haydarjawad.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">a post with pseudo code</title><link href="https://haydarjawad.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://haydarjawad.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://haydarjawad.github.io/blog/2024/pseudocode/"><![CDATA[<pre><code class="language-pseudocode">% This is a simple test algorithm following the Quicksort format
-\begin{algorithm}
-\caption{Simple Example}
-\begin{algorithmic}
-\PROCEDURE{SimpleProcedure}{$$A, B$$}
-    \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-    \IF{$$A &gt; B$$}
-        \STATE $$C \gets A + B$$
-    \ENDIF
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}
-
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://haydarjawad.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://haydarjawad.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-05-28T16:34:24+00:00</updated><id>https://haydarjawad.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">a post with pseudo code</title><link href="https://haydarjawad.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://haydarjawad.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://haydarjawad.github.io/blog/2024/pseudocode/"><![CDATA[<pre><code class="language-pseudocode"> \begin{algorithm}
+        \caption{Test text-style}
+        \begin{algorithmic}
+        \REQUIRE some preconditions
+        \ENSURE some postconditions
+        \INPUT some inputs
+        \OUTPUT some outputs
+        \PROCEDURE{Test-Declarations}{}
+            \STATE font families: {\sffamily sffamily, \ttfamily ttfamily, \normalfont normalfont, \rmfamily rmfamily.}
+            \STATE font weights: {normal weight, \bfseries bold, \mdseries
+            medium, \lfseries lighter. }
+            \STATE font shapes: {\itshape itshape \scshape Small-Caps \slshape slshape \upshape upshape.}
+            \STATE font sizes: \tiny tiny \scriptsize scriptsize \footnotesize
+            footnotesize \small small \normalsize normal \large large \Large Large
+            \LARGE LARGE \huge huge \Huge Huge \normalsize
+        \ENDPROCEDURE
+        \PROCEDURE{Test-Commands}{}
+            \STATE \textnormal{textnormal,} \textrm{textrm,} \textsf{textsf,} \texttt{texttt.}
+            \STATE \textbf{textbf,} \textmd{textmd,} \textlf{textlf.}
+            \STATE \textup{textup,} \textit{textit,} \textsc{textsc,} \textsl{textsl.}
+            \STATE \uppercase{uppercase,} \lowercase{LOWERCASE.}
+        \ENDPROCEDURE
+        \PROCEDURE{Test-Colors}{}
+            \STATE colors: $\color{red}{red}$, $\color{green}{green}$, $\color{blue}{blue}$
+            \STATE colors: $\color{yellow}{yellow}$, $\color{cyan}{cyan}$, $\color{magenta}{magenta}$
+        \ENDPROCEDURE
+        \end{algorithmic}
+        \end{algorithm}
 
 
 
