@@ -11,13 +11,14 @@ pseudocode: true
 ```pseudocode
 % Minimal example to ensure correct rendering
 \begin{algorithm}
-\caption{Check Probabilities of Image Classification Model}
+\caption{Minimal Example}
 \begin{algorithmic}
-\PROCEDURE{CheckProbabilities}{$sample\_space, event\_A, event\_B$}
-    \STATE total\_images \gets \CALL{Length}{$sample\_space$}
+\PROCEDURE{ExampleProcedure}{$$A, B$$}
+    \STATE $$C \gets A + B$$
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
+
 
 
 
