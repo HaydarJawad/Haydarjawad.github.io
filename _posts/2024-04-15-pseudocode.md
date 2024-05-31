@@ -14,7 +14,7 @@ pseudocode: true
 \caption{Check Probabilities of Image Classification Model}
 \begin{algorithmic}
 \PROCEDURE{CheckProbabilities}{$$sample\_space, event\_A, event\_B$$}
-    \STATE $total\_images \gets$ \CALL{Length}{$$sample\_space$$}
+    \STATE $total\_images \gets$ \CALL{Length}\(sample\_space\)
     \STATE $prob\_A \gets$ \CALL{Length}{$event\_A$} / $total\_images$
     \STATE $prob\_B \gets$ \CALL{Length}{$event\_B$} / $total\_images$
 
