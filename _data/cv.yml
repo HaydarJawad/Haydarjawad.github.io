@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc
+    - title: Master of AI and Robotics (MSc)
       institution: De Montfort University, Leicester,UK
       year: 2022
       description:
@@ -32,6 +32,19 @@
         - Law and economics for digital markets
         - Human rights and digital technologies
         - Project, Intellectual Property Rights and the Digital Complexity
+    - title: Master of Business Administration (MBA)
+      institution: University of Birmingham, Edgbaston, UK
+      year: 2002
+      description:
+         - Accounting Accountability and Decision Making
+         - Managerial Finance
+         - Strategy in a Complex and Uncertain World
+         - Marketing
+         - Sustainable Operations
+         - Understanding the Economy
+         - People Management and Organisations
+         - Global Perspectives in Responsible Business
+         - Purposeful Leader
 - title: Experience
   type: time_table
   contents:
