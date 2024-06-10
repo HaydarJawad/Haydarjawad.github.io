@@ -13,12 +13,13 @@
       institution: De Montfort University, Leicester,UK
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Accredited by BCS, The Chartered Institute for IT,UK.
+        - Internationally recognised by Institute of Artificial Intelligence (IAI)
+        - Neural Systems and Natural Language Processing
+        - Artificial Intelligence for Mobile Robots
+        - Fuzzy Logic and Evolutionary Computing
+        - Optimization Algorithms
+        - Project: Detecting Covid-19 using ML and Sensor Fusion  
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
