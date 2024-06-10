@@ -89,17 +89,17 @@
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Skills and Knowledge
-  type: list
+  type: nested_list
   contents:
-    - Engineering
+    - title: Engineering
       items:
         - Detecting Covid-19 using ML and Sensor Fusion
         - Placeholder for future content
-    - Projects
+    - title: Projects
       items:
         - Project: Intellectual Property Rights and the Digital Complexity
         - Placeholder for future content
-    - Degrees
+    - title: Degrees
       items:
         - Master of AI and Robotics
         - Master of Business Administration
