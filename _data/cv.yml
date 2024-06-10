@@ -103,10 +103,6 @@
       items:
         - Master of AI and Robotics
         - Master of Business Administration
-
-
-
-
 - title: Academic Interests
   type: nested_list
   contents:
