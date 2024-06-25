@@ -51,35 +51,118 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Transformation Director AI ML Implementation and Consultancy
+      institution: Smart Babylon, Birmingham, UK
+      year: 2017 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Building technology and digital transformation strategies for clients
+        - Producing AI/ML centres of excellence strategies
+        - Demonstrating to clients how cloud technology can provide new services and efficiencies
+
+    - title: Director of Cards and Payments Delivery
+      institution: Hewlett Packard, Sydney, Australia
+      year: 2015 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Simplified the Cards and Payments delivery model
+        - Established a partner management framework and governance for third-party suppliers
+        - Introduced an agile delivery culture and global operating model
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Head of Technology Optimisation and Business Consulting
+      institution: Westpac Banking Group, Sydney, Australia
+      year: 2014 - 2015
       description:
+        - Developed a technology optimisation and simplification strategy
+        - Designed and implemented a customer-focused change management roadmap
+        - Created a technology analytics strategy for informed decision-making
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Programme Director / Principal Consultant
+      institution: Westpac Banking Group, Sydney, Australia
+      year: 2012 - 2014
+      description:
+        - Built and operated a “War Room” for accelerated transition
+        - Developed quality assurance and governance processes
+        - Created a strategic KPI management model within technology
+
+    - title: Programme Director and Principal Consultant
+      institution: Westpac Banking Group, Sydney, Australia
+      year: 2010
+      description:
+        - Implemented the execution of application sourcing across multiple domains
+        - Established a Transition Office for vendor engagement
+        - Developed a supplier performance dashboard
+
+    - title: Programme Director
+      institution: Lloyds Banking Group, London, UK
+      year: 2010 - 2011
+      description:
+        - Finalised a cost reduction and optimisation model
+        - Designed and implemented a change management roadmap
+        - Produced a relationship management strategy for clients and partners
+
+    - title: Programme Director and Principal Consultant
+      institution: Lloyds Banking Group, London, UK
+      year: 2008 - 2010
+      description:
+        - Created a comprehensive software application transition strategy
+        - Planned and executed the transition of financial software applications
+        - Initiated a global partner management and governance framework
+
+    - title: Programme Manager
+      institution: Barclays Bank PLC, Manchester, UK
+      year: 2007 - 2008
+      description:
+        - Managed e-commerce portal development
+        - Coordinated project timelines and resource allocation
+        - Implemented security measures for project completion
+
+    - title: Programme Manager E-Commerce Portal Development and Organisation Merger & Acquisition
+      institution: Virgin Group, London, UK
+      year: 2006 - 2007
+      description:
+        - Led e-commerce portal development projects
+        - Managed merger and acquisition integration
+        - Ensured smooth transition and consolidation of systems
+
+    - title: Project Manager of Security Access Management
+      institution: Aviva Group PLC, Norwich, UK
+      year: 2004 - 2006
+      description:
+        - Directed security access management projects
+        - Implemented security protocols and access controls
+        - Coordinated with IT and security teams
+
+    - title: Management and Change Consultant
+      institution: Hewlett Packard, London, UK
+      year: 2001 - 2004
+      description:
+        - Provided management and change consultancy services
+        - Implemented process improvements and change management strategies
+        - Worked with cross-functional teams to achieve project goals
+
+    - title: Cisco Network Designer and Analyst
+      institution: AT&T, UK
+      year: 2001
+      description:
+        - Designed and analysed Cisco network systems
+        - Provided technical support and solutions
+        - Ensured network reliability and performance
+
+    - title: Senior Operations Manager
+      institution: Smart Technology, UK
+      year: 1995 - 2000
+      description:
+        - Managed operations and technology projects
+        - Oversaw team performance and project delivery
+        - Implemented operational improvements and efficiencies
+
+    - title: Technology Consultant/Project Manager
+      institution: Various SMEs, UK
+      year: 1990 - 1995
+      description:
+        - Provided consultancy services for technology projects
+        - Managed project timelines and deliverables
+        - Collaborated with clients to achieve project objectives
+
 
 - title: Open Source Projects
   type: time_table
