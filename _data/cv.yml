@@ -256,17 +256,14 @@
         - Technology Law and Ethics
 
         
-- title: Academic Interests
-  type: nested_list
+- title: Academic and Other Interests
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Visiting Lecturer in Computer Science at Newman University, Birmingham, UK
+    - Visiting Lecturer in Technology Law and Ethics at Western Sydney University, Australia
+    - Postdoctoral Research in Smart Energy using Reinforcement Learning - Keele University
+    - Fluent in English and Arabic
+
 
 - title: Professional Certification
   type: list
