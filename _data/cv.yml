@@ -91,17 +91,87 @@
 - title: Skills and Knowledge
   type: nested_list
   contents:
-    - title: Engineering
+    - title: Digital Transformation and Technology Implementation
       items:
-        - Detecting Covid-19 using ML and Sensor Fusion
-        - Placeholder for future content
-    - title: Projects
+        - Digital transformation strategies
+        - AI/ML implementation and centres of excellence
+        - Cloud architecture implementation (Amazon, Google, and Azure)
+        - Machine learning and artificial intelligence implementation
+        - DevOps & MLOps framework implementation and management
+        - Robotic Process Automation (Python and UiPath)
+        - IT architecture (TOGAF), SAFe v5 for Lean Enterprises, and ArchiMate toolset
+        - Proficient in Python, C++, HTML, CSS, JavaScript, Node.js, MATLAB
+        - Experienced with TinyML, Azure ML, Google ML
+        - Proficient in blockchain technology (smart contracts using Solidity)
+        - Keras, TensorFlow, and PyTorch
+        - Experienced in genetic algorithms and computational intelligence implementation
+        - Proficient in supervised, unsupervised, and reinforcement machine learning
+        - Experienced in implementing fuzzy logic
+        - Docker, Kubernetes, Ansible, and Git
+        - Proficient in using the Robotics Operating System (ROS)
+        - Experienced in working with ARM-based microcontrollers
+        - Proficient in implementing ARM hardware
+        - Proficient in using image processing platforms
+    - title: Project and Programme Management
       items:
-        - Intellectual Property Rights and the Digital Complexity
-        - Placeholder for future content
-    - title: Degrees
+        - Project and Programme Management Lifecycle (Prince2, PMP, MSP, ISEB, Agile, Scrum, and Kanban)
+        - Business Case Development
+        - Strategic Planning & Execution
+        - Project and programme recovery (War Room “plan-build-run” expertise)
+        - Resource demand planning and management
+        - Building project management plans and delivery models
+        - Project and program management Center of Excellence (CoE)
+        - PMO office utilizing P3O methodology
+        - Strategic KPI management model
+        - Application and infrastructure transition strategy
+    - title: Risk Management
       items:
-        - Master of AI and Robotics
+        - Risk Management Framework (ISACA)
+        - Change Management (ADKAR and Kotter)
+        - Implementing data security and controls (COBIT)
+        - CyberSecurity & governance frameworks (ISO 27001 and ISO 27002 & COBIT)
+        - Governance, Risk, and Compliance (GRC) management framework
+        - Risk management culture and new controls implementation
+        - Establishing a transition office for vendor engagement
+    - title: Operations and Optimisation
+      items:
+        - Technology optimisation and simplification strategies
+        - Lean, Six Sigma, and CMMI
+        - ITIL-based Service Management (V4)
+        - Strategic Negotiation (commercial and legal) & due diligence
+        - Commercial Lifecycle Management (RFI, RFQ, and RFP)
+        - Outsourcing & Offshoring Management
+        - Third-party & Partner management (local and global)
+        - Proficient in implementing blockchain technology
+        - Application best sourcing operating model
+        - Supplier performance dashboard and governance templates
+    - title: Strategic Leadership and Coaching
+      items:
+        - Digital Leadership, coaching, and mentoring
+        - Design thinking mindset
+        - Prototyping using “fail fast” technique
+        - Customer-focused change management roadmap
+        - Strategic Negotiation & due diligence
+        - High-performance culture promoting innovation and entrepreneurship
+        - Training programmes and mentoring technology teams
+        - Talent strategy covering worker, work, and workplace
+    - title: Software and Hardware Expertise
+      items:
+        - Software development lifecycles (Agile and Waterfall)
+        - Hardware design and architecture
+        - Network, Storage, Server architecture, and VMware vSphere
+        - Developing contracts and framework agreements
+        - Proficient in using Linux Ubuntu, Windows, and Mac OS
+        - Experienced in building server hardware (AMD and Intel)
+        - Experienced in working with industrial sensors
+        - Proficient in using open-source routers and NAS storage systems
+    - title: Legal and Commercial Acumen
+      items:
+        - Data privacy, intellectual property, and information laws and policies
+        - Patent registration and technology innovations
+        - Legal implications of fostering innovation in electronic collaboration
+        - Technology Law and Ethics
+
         - Master of Business Administration
 - title: Academic Interests
   type: nested_list
@@ -118,11 +188,4 @@
 - title: Professional Certification
   type: list
   contents:
-    - Certified Managing Successful Programmes Expert (MSP)
-    - Certified PRINCE2 Practitioner
-    - Certified Project Management Professional Practitioner (PMP)
-    - Certified ISEB Project Management
-    - Certified Open University Project Management
-    - Certified Risk Management Practitioner
-    - Completed FinTech 101 Course at the Open University (2015)
-
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
